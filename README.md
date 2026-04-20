@@ -2,6 +2,8 @@
 
 A VS Code extension that delivers a daily anti-motivational quote at 9am — for the days when inspiration just isn't cutting it.
 
+> `😈 "Every dead body on Mt. Everest was once a highly motivated person, so… maybe calm down."`
+
 ## How it works
 
 - Every day at **9am local time**, a notification popup appears with an anti-motivational quote
