@@ -50,7 +50,9 @@ vsce package
 
 ## Quote sources
 
-The 66 quotes were sourced and curated from:
+The 116 quotes were sourced and curated from:
 
-- [despair.com](https://despair.com) — the original demotivational poster company
-- [goodreads.com](https://www.goodreads.com) — anti-motivational and sardonic quote collections
+- [Bored Panda – Demotivational Quotes](https://www.boredpanda.com/demotivational-quotes/)
+- [LinkedIn – 40 Amusing Demotivational Quotes](https://www.linkedin.com/pulse/40-amusing-demotivational-quotes-marks-corporate-comedian-sydney)
+- [QuoteFancy – Demotivational Quotes](https://quotefancy.com/demotivational-quotes)
+- [Reddit – What's your best demotivational quote?](https://www.reddit.com/r/AskReddit/comments/4c3muq/whats_your_best_demotivational_quote/)
