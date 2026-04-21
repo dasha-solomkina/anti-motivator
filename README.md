@@ -1,8 +1,10 @@
 # Anti-Motivator
 
 A VS Code extension that delivers a daily anti-motivational quote at 9am — for the days when inspiration just isn't cutting it.
-
-> `😈 "Every dead body on Mt. Everest was once a highly motivated person, so… maybe calm down."`
+  
+```
+ 😈 "Every dead body on Mt. Everest was once a highly motivated person, so… maybe calm down."
+``` 
 
 ## How it works
 
