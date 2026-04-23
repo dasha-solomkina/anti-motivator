@@ -3,7 +3,7 @@
   "displayName": "Anti-Motivator",
   "icon": "images/black-cat.png",
   "description": "Daily anti-motivational quotes to keep you grounded.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "dasha",
   "engines": {
     "vscode": "^1.94.0"
